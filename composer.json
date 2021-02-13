@@ -1,0 +1,16 @@
+{
+    "name": "vendor/app",
+    "description": "Composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Victoria Kovalyova",
+            "email": "reg@sav4yk.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpmailer/phpmailer": "dev-master",
+        "erusev/parsedown": "dev-master"
+    }
+}
